@@ -6,6 +6,12 @@ A lightweight, high-performance browser extension ruleset designed to intercept 
   <img src="assets/brand/logo.png" alt="PixelPie Media Logo" width="300" />
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/github/license/pikadexofc/pickko-adguard?style=flat-square" alt="License" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
+  <img src="https://img.shields.io/github/last-commit/pikadexofc/pickko-adguard?style=flat-square" alt="Last Commit" />
+</p>
+
 ---
 
 ## 🚀 Key Features
